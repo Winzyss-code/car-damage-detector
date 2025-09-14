@@ -17,7 +17,7 @@ CAR DIRTINESS AND DAMAGE DETECTION WITH SPECIFICATION
 
 # Как запустить программу
 git clone https://github.com/Winzyss-code/car-damage-detector
-cd cd .\car-damage-detector-main\
+cd .\car-damage-detector-main\
 pip install requirements.txt
 python flask_app.py
 
